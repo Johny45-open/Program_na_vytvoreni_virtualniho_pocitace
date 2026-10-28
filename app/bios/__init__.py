@@ -1,0 +1,1 @@
+"""Protokol a komunikace s vlastním BIOSem."""

@@ -1,0 +1,1 @@
+"""Balíček aplikace pro správu přístupných virtuálních počítačů."""

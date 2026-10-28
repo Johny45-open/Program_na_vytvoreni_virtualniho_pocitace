@@ -1,0 +1,1 @@
+"""Internacionalizace aplikace."""

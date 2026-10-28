@@ -1,0 +1,15 @@
+{
+  "name": "Windows 10",
+  "memory_mb": 12000,
+  "cpus": 2,
+  "disk_size_gb": 1024,
+  "iso": "C:/Honza/VirtualBox/Windows10.iso",
+  "sound_enabled": true,
+  "sound_card": "intel-hda",
+  "audio_driver": "dsound",
+  "audio_timer_period": 5000,
+  "audio_latency_ms": 20,
+  "display_driver": "auto",
+  "display_gl": true,
+  "display_vsync": true
+}
